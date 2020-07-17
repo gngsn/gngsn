@@ -6,7 +6,7 @@
 
 #### 📫 How to reach me:
 - email: rudtjs4540@gmail.com
-- linkedin : https://www.linkedin.com/in/%EA%B2%BD%EC%84%A0-%EB%B0%95-4b95961b2/
+- linkedin : https://www.linkedin.com/in/kyeongsun-park-4b95961b2/
 - facebook : https://www.facebook.com/rudtjs4540
 - instagram : https://www.instagram.com/pppppppppark/
 
