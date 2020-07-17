@@ -1,13 +1,10 @@
 ### Hi there 👋 
 
+
 #### 🌖 My Portfolio!
 [PORTFOLIO](https://gngsn.github.io/)
 
-<br/>
-
 #### 🔭 I’m currently working on  [SOPT](http://sopt.org/wp/)
-
-<br/>
 
 #### 📫 How to reach me:
 - email: rudtjs4540@gmail.com
@@ -21,7 +18,6 @@
 **gngsn/gngsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
