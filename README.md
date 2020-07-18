@@ -1,6 +1,3 @@
-### Hi there 👋 
-
-
 #### 🌖 My Portfolio! > [PORTFOLIO](https://gngsn.github.io/)
 
 
