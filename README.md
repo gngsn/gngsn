@@ -1,4 +1,4 @@
-#### 🌖 My Portfolio! > [PORTFOLIO](https://gngsn.github.io/)
+#### 🌖 My Portfolio! > [PORTFOLIO](https://gngsn.github.io/) (개발중)
 
 
 #### 📫 How to reach me:
