@@ -1,13 +1,13 @@
-#### 🌖 My Portfolio! > [PORTFOLIO](https://gngsn.github.io/) (개발중)
+#### 🌖 My Portfolio! > <a href="https://gngsn.github.io/" target="_blank"> PORTFOLIO (개발중) </a>
 
 
 #### 📫 How to reach me:
-- email: rudtjs4540@gmail.com
-- linkedin : https://www.linkedin.com/in/kyeongsun-park-4b95961b2/
-- facebook : https://www.facebook.com/rudtjs4540
-- instagram : https://www.instagram.com/pppppppppark/
 
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://gngsn.tistory.com/)](https://gngsn.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongsun-park-4b95961b2/)](https://www.linkedin.com/in/kyeongsun-park-4b95961b2/)
+[![Instagram Badge](https://img.shields.io/badge/Instgram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pppppppppark/)](https://www.instagram.com/pppppppppark/)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rudtjs4540)](https://www.facebook.com/rudtjs4540)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudtjs4540@gmail.com)](mailto:rudtjs4540@gmail.com)
 
 <!--
 **gngsn/gngsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
