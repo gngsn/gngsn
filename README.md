@@ -1,7 +1,7 @@
 Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px">
 <br/><br/>
 
-#### 🌖 My Portfolio! > <a href="https://gngsn.github.io/" target="_blank"> PORTFOLIO </a> 
+#### 🌖 My Portfolio! > <a href="http://kyeongseon.ml/" target="_blank"> PORTFOLIO </a> 
 
 
 #### 📫 How to reach me:
