@@ -1,7 +1,7 @@
 Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px">
 <br/><br/>
 
-#### 🌖 My Portfolio! > <a target="_blank" href="http://kyeongsun.com/"> PORTFOLIO </a> 
+#### 🌖 My Portfolio! > <a target="_blank" href="http://portfolio.kyeongsun.com/"> PORTFOLIO </a> 
 
 
 #### 📫 How to reach me:
