@@ -1,7 +1,13 @@
-Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px">
+## Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px"> 
+
+<br/>
+
+### &nbsp;&nbsp; ○△□
+
+<a target="_blank" href="https://kyeongsun.com/"> PORTFOLIO </a> 
+
 <br/><br/>
 
-#### 🌖 My Portfolio! > <a target="_blank" href="https://kyeongsun.com/"> PORTFOLIO </a> 
 
 
 #### 📫 How to reach me:
@@ -14,6 +20,7 @@ Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" wi
 
 <!--
 **gngsn/gngsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌖 My Portfolio! > <a target="_blank" href="https://kyeongsun.com/"> PORTFOLIO </a> 
 
 Here are some ideas to get you started:
 
