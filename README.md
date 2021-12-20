@@ -35,9 +35,10 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Angular-dd1b16?style=flat-square&logo=Angular&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
 </p>
+
+<!--
 
 <h4 align="center"> DATA SCIENCE </h4>
 <p align="center">
@@ -47,6 +48,7 @@
   <img src="https://img.shields.io/badge/opencv-red?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
 </p>
 
+-->
 <br/>
 
 <h4 align="center"> How to reach me </h4>
