@@ -1,15 +1,8 @@
 
 <br/>
 
-<p align="center"> ○△□ </p>
-<p align="center"> 
-<a target="_blank" href="https://kyeongsun.com/"> Invitation </a> 
-</p>
-  
-<br/><br/>
-
 <h4 align="center"> BACKEND </h4>
- 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
@@ -28,12 +21,11 @@
 
 <h4 align="center"> FRONTEND </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+<!--  <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  -->
   <img src="https://img.shields.io/badge/sass-cd6799?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp 
 <!--  <img src="https://img.shields.io/badge/jquery-grey?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp -->
   <img src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
@@ -48,17 +40,18 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/opencv-red?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
 </p>
-
--->
-<br/>
-
 <h4 align="center"> How to reach me </h4>
+<p align="center"> 
+<a target="_blank" href="https://kyeongsun.com/"> PORTFOLIO SITE </a> 
+</p>
+-->
+<p align="center"> ✍🏻 </p>
+
 <p align="center">
+  <a href="https://kyeongsun.com/"><img src="http://img.shields.io/badge/-PORTFOLIO-black?style=flat-square&logo=tistory&link=https://gngsn.tistory.com/" /></a>&nbsp 
   <a href="https://gngsn.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://gngsn.tistory.com/" /></a>&nbsp 
   <a href="mailto:rudtjs4540@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudtjs4540@gmail.com" /></a>&nbsp 
 </p>
-<br/>
-
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgngsn&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
