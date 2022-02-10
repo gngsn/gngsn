@@ -1,12 +1,11 @@
 
 <br/>
 
-<p align="center"> ○△□ </p>
-<p align="center"> 
-<a target="_blank" href="https://kyeongsun.com/"> Invitation </a> 
-</p>
+<h3 align="center"> 
+<a target="_blank" href="https://kyeongsun.com/"> PORTFOLIO </a> 
+</h3>
   
-<br/><br/>
+<br/>
 
 <h4 align="center"> BACKEND </h4>
  
