@@ -51,15 +51,17 @@
 -->
 <br/>
 
-<h4 align="center"> How to reach me </h4>
+<h4 align="center"> Tech Blog </h4>
 <p align="center">
-  <a href="https://gngsn.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://gngsn.tistory.com/" /></a>&nbsp 
-  <a href="mailto:rudtjs4540@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudtjs4540@gmail.com" /></a>&nbsp 
+  <a href="https://gngsn.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://gngsn.tistory.com/" /></a>&nbsp 
+  <a href="https://medium.com/@gngsn"><img src="http://img.shields.io/badge/-Medium%20[EN]-black?style=flat-square&logo=medium&link=https://medium.com/@gngsn" /></a>&nbsp 
 </p>
+
 <br/>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgngsn&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <a href="mailto:rudtjs4540@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudtjs4540@gmail.com" /></a>&nbsp 
 </p>
 
 <br/><br/>
