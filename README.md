@@ -1,9 +1,12 @@
-<br/>
+<br/><br/>
+<p align="center"> 
+<a align="center" target="_blank" href="https://kyeongsun.com/"> 𝐒𝐦𝐚𝐥𝐥 𝐇𝐚𝐛𝐢𝐭𝐬 𝐌𝐚𝐤𝐞 𝐚 𝐁𝐢𝐠 𝐈𝐦𝐩𝐚𝐜𝐭 𝐨𝐧 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞. </a> <br/>
+</p><br/>
+<h4 align="center"> ➖ </h4>
 <h3 align="center"> 
-<a target="_blank" href="https://kyeongsun.com/"> 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 </a> <br/>
-<br/>
   𝘈𝘯 𝘦𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵𝘪𝘤 𝘢𝘯𝘥 𝘧𝘢𝘴𝘵 𝘭𝘦𝘢𝘳𝘯𝘦𝘳 <br/>𝘸𝘩𝘰 𝘦𝘯𝘫𝘰𝘺𝘴 𝘦𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘢𝘯𝘥 𝘥𝘪𝘷𝘪𝘯𝘨 𝘪𝘯𝘵𝘰 𝘯𝘦𝘸 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦, 𝘥𝘳𝘪𝘷𝘦𝘯 𝘣𝘺 𝘤𝘶𝘳𝘪𝘰𝘴𝘪𝘵𝘺
 </h3>
+<br/>
   <br/>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgngsn&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
@@ -14,9 +17,7 @@
     <a href="https://www.linkedin.com/in/kyeongsun-park"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongsun-park-4b95961b2"/></a>
   <a href="mailto:rudtjs4540@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudtjs4540@gmail.com" /></a>
 </p>
-<br/>
 
-<h4 align="center"> ➖ </h4>
 <h4 align="center"> BACKEND </h4>
  
 <p align="center">
@@ -42,6 +43,7 @@
   <img src="https://img.shields.io/badge/sass-cd6799?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp 
 </p>
+<br/>
 <br/>
 
 <br/><br/>
