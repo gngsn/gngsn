@@ -20,37 +20,13 @@
   <a href="mailto:rudtjs4540@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudtjs4540@gmail.com" /></a>
 </p>
 
-
+<br/>
+<br/>
 
 <p align="center">
 
-
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,nodejs,aws,react,nextjs,emotion,ts,gatsby,kubernetes,docker&perline=7"/>
 
-
-[//]: # (<img src="https://img.shields.io/badge/Java-e75253?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp )
-
-[//]: # (  <img src="https://img.shields.io/badge/typescript-1572b6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp)
-
-[//]: # (  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp )
-
-[//]: # (  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp )
-
-[//]: # (  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp;)
-
-[//]: # (  <br>)
-
-[//]: # (  <img src="https://img.shields.io/badge/Spring-6D8B33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp )
-
-[//]: # (  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp)
-
-[//]: # (  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp)
-
-[//]: # (  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>)
-
-[//]: # (  <img src="https://img.shields.io/badge/MongoDB-3fa037?style=flat-square&logo=MongoDB&logoColor=white"/>)
-
-[//]: # (  <br>)
 </p>
 
 <br/>
