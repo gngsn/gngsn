@@ -1,6 +1,6 @@
 <br/><br/>
 <p align="center"> 
-<a align="center" target="_blank" href="https://kyeongsun.com/"> 𝐒𝐦𝐚𝐥𝐥 𝐇𝐚𝐛𝐢𝐭𝐬 𝐌𝐚𝐤𝐞 𝐚 𝐁𝐢𝐠 𝐈𝐦𝐩𝐚𝐜𝐭 𝐨𝐧 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞. </a> <br/>
+<a align="center" target="_blank" href="https://gyeongsun.com/"> 𝐒𝐦𝐚𝐥𝐥 𝐇𝐚𝐛𝐢𝐭𝐬 𝐌𝐚𝐤𝐞 𝐚 𝐁𝐢𝐠 𝐈𝐦𝐩𝐚𝐜𝐭 𝐨𝐧 𝐘𝐨𝐮𝐫 𝐋𝐢𝐟𝐞. </a> <br/>
 </p><br/>
 <h4 align="center"> ➖ </h4>
 <h3 align="center"> 
