@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://gngsn.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://gngsn.tistory.com/" /></a>&nbsp;
   <a href="https://medium.com/@gngsn"><img src="http://img.shields.io/badge/-Medium%20[EN]-black?style=flat-square&logo=medium&link=https://medium.com/@gngsn" /></a>
-    <a href="https://www.linkedin.com/in/kyeongsun-park"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeongsun-park/"/></a>
+    <a href="https://www.linkedin.com/in/gyeongsun-park"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeongsun-park/"/></a>
   <a href="mailto:rudtjs4540@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudtjs4540@gmail.com" /></a>
 </p>
 
